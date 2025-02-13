@@ -1,0 +1,14 @@
+# TODO
+- Mobs:
+  - Zombie - rotten flesh
+  - Creeper - mob head (accept )
+  - Wither - Wither star
+  - Squid - inksack
+  - Pufferfish - pufferfish
+  - Bee - honeycomb
+  - Goat - goat horn
+  - Vex - totem of undying
+  - Raveger - bell
+  - hoglin - pork
+  - lama - carpet
+  - rabbit - rabbit foot
