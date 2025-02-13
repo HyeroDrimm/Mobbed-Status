@@ -25,6 +25,5 @@ public class MobbedStatus implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModPotions.registerPotions();
-		ModLootTableModifiers.ModifyLootTables();
 	}
 }

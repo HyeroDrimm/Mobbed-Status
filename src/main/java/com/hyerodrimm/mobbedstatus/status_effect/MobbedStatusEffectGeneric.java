@@ -28,7 +28,7 @@ class MobbedStatusEffectGeneric extends StatusEffect {
     }
 
     public void onEntityDamage(ServerWorld world, LivingEntity entity, int amplifier, DamageSource source, float amount) {
-        if (entity.getRandom().nextFloat() <= this.mobChance) {
+        if (entity.getRandom().nextFloat() <= this.mobChance * (1 + amplifier)) {
             int i = this.mobCountFunction.applyAsInt(entity.getRandom());
 
             for(int j = 0; j < i; ++j) {

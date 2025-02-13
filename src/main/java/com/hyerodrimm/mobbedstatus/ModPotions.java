@@ -19,6 +19,16 @@ public class ModPotions {
                                     ModStatusEffects.BEE_MOBBED_STATUS_EFFECT,
                                     3600,
                                     0)));
+
+    public static final Potion RAVAGER_MOBBED_POTION =
+            Registry.register(
+                    Registries.POTION,
+                    Identifier.of(MobbedStatus.MOD_ID, "ravager_mobbed_potion"),
+                    new Potion("ravager_mobbed_potion",
+                            new StatusEffectInstance(
+                                    ModStatusEffects.RAVAGER_MOBBED_STATUS_EFFECT,
+                                    3600,
+                                    0)));
     public static void registerPotions(){
         FabricBrewingRecipeRegistryBuilder.BUILD.register(builder -> {
             builder.registerPotionRecipe(
@@ -28,6 +38,14 @@ public class ModPotions {
                     Items.HONEYCOMB,
                     // Output potion.
                     Registries.POTION.getEntry(BEE_MOBBED_POTION)
+            );
+            builder.registerPotionRecipe(
+                    // Input potion.
+                    Potions.INFESTED,
+                    // Ingredient
+                    Items.TOTEM_OF_UNDYING,
+                    // Output potion.
+                    Registries.POTION.getEntry(RAVAGER_MOBBED_POTION)
             );
         });
     }

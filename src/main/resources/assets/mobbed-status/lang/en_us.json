@@ -3,6 +3,12 @@
   "item.minecraft.potion.effect.bee_mobbed_potion": "Potion of Honey Mobbed",
   "item.minecraft.splash_potion.effect.bee_mobbed_potion": "Splash Potion of Honey Mobbed ",
   "item.minecraft.lingering_potion.effect.bee_mobbed_potion": "Lingering Potion of Honey Mobbed",
-  "item.minecraft.tipped_arrow.effect.bee_mobbed_potion": "Arrow of Honey Mobbed"
+  "item.minecraft.tipped_arrow.effect.bee_mobbed_potion": "Arrow of Honey Mobbed",
+
+  "effect.mobbed-status.ravager-mobbed-status-effect": "Raid Mobbed",
+  "item.minecraft.potion.effect.ravager_mobbed_potion": "Potion of Raid Mobbed",
+  "item.minecraft.splash_potion.effect.ravager_mobbed_potion": "Splash Potion of Raid Mobbed ",
+  "item.minecraft.lingering_potion.effect.ravager_mobbed_potion": "Lingering Potion of Raid Mobbed",
+  "item.minecraft.tipped_arrow.effect.ravager_mobbed_potion": "Arrow of Raid Mobbed"
 }
 
