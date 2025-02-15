@@ -1,14 +1,11 @@
 # TODO
 - Mobs:
-  - Zombie - rotten flesh
-  - Creeper - mob head (accept )
-  - Wither - Wither star
-  - Squid - inksack
-  - Pufferfish - pufferfish
-  - Bee - honeycomb
-  - Goat - goat horn
-  - Vex - totem of undying
-  - Raveger - bell
-  - hoglin - pork
-  - lama - carpet
-  - rabbit - rabbit foot
+  - Creeper - creeper head - green - creeper head
+  - Wither - Wither star - white - wither star
+  - Squid - inksack - granat - ink sac
+  - Bee - honeycomb - złoty - honey comb
+  - Goat - goat horn - jasno szary - goat horn
+  - Vex - totem of undying - jasno niebieski - iron sword
+  - Raveger - bell - szary - bell
+  - lama - lead - kremowy - lead
+  - rabbit - rabbit foot - kremowy - rabit foot
