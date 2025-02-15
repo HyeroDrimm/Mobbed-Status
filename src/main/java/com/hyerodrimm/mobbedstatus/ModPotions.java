@@ -43,7 +43,7 @@ public class ModPotions {
                     // Input potion.
                     Potions.INFESTED,
                     // Ingredient
-                    Items.TOTEM_OF_UNDYING,
+                    Items.BELL,
                     // Output potion.
                     Registries.POTION.getEntry(RAVAGER_MOBBED_POTION)
             );
