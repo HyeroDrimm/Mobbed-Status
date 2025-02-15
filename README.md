@@ -16,6 +16,8 @@ If you take Potion of Infestation and brew it with these items you will get corr
 - Potion of Horned <— Goat Horn
 - Potion of Creeping <— Creeper Head
 
+![How to brew](https://cdn.modrinth.com/data/3zWqkm19/images/89e5f8e8c30814260d30cbc2187d3463e1f978f7.png)
+
 Then you can make it a throwing, lingering or even tipped arrows! **So many uses!**
 
 ### Art
