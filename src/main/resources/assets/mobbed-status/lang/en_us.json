@@ -1,14 +1,56 @@
 {
-  "effect.mobbed-status.bee-mobbed-status-effect": "Honey Mobbed",
-  "item.minecraft.potion.effect.bee_mobbed_potion": "Potion of Honey Mobbed",
-  "item.minecraft.splash_potion.effect.bee_mobbed_potion": "Splash Potion of Honey Mobbed ",
-  "item.minecraft.lingering_potion.effect.bee_mobbed_potion": "Lingering Potion of Honey Mobbed",
-  "item.minecraft.tipped_arrow.effect.bee_mobbed_potion": "Arrow of Honey Mobbed",
+  "effect.mobbed-status.bee-mobbed-status-effect": "Honeyed",
+  "item.minecraft.potion.effect.bee_mobbed_potion": "Potion of Honeyed",
+  "item.minecraft.splash_potion.effect.bee_mobbed_potion": "Splash Potion of Honeyed",
+  "item.minecraft.lingering_potion.effect.bee_mobbed_potion": "Lingering Potion of Honeyed",
+  "item.minecraft.tipped_arrow.effect.bee_mobbed_potion": "Arrow of Honeyed",
 
-  "effect.mobbed-status.ravager-mobbed-status-effect": "Raid Mobbed",
-  "item.minecraft.potion.effect.ravager_mobbed_potion": "Potion of Raid Mobbed",
-  "item.minecraft.splash_potion.effect.ravager_mobbed_potion": "Splash Potion of Raid Mobbed ",
-  "item.minecraft.lingering_potion.effect.ravager_mobbed_potion": "Lingering Potion of Raid Mobbed",
-  "item.minecraft.tipped_arrow.effect.ravager_mobbed_potion": "Arrow of Raid Mobbed"
+  "effect.mobbed-status.ravager-mobbed-status-effect": "Ominous Bell",
+  "item.minecraft.potion.effect.ravager_mobbed_potion": "Potion of Raid Ominous Bell",
+  "item.minecraft.splash_potion.effect.ravager_mobbed_potion": "Splash Potion of Ominous Bell",
+  "item.minecraft.lingering_potion.effect.ravager_mobbed_potion": "Lingering Potion of Ominous Bell",
+  "item.minecraft.tipped_arrow.effect.ravager_mobbed_potion": "Arrow of Ominous Bell",
+
+  "effect.mobbed-status.vex-mobbed-status-effect": "Vexation",
+  "item.minecraft.potion.effect.vex_mobbed_potion": "Potion of Vexation",
+  "item.minecraft.splash_potion.effect.vex_mobbed_potion": "Splash Potion of Vexation",
+  "item.minecraft.lingering_potion.effect.vex_mobbed_potion": "Lingering Potion of Vexation",
+  "item.minecraft.tipped_arrow.effect.vex_mobbed_potion": "Arrow of Vexation",
+
+  "effect.mobbed-status.llama-mobbed-status-effect": "Lamed",
+  "item.minecraft.potion.effect.llama_mobbed_potion": "Potion of Lamed",
+  "item.minecraft.splash_potion.effect.llama_mobbed_potion": "Splash Potion of Lamed",
+  "item.minecraft.lingering_potion.effect.llama_mobbed_potion": "Lingering Potion of Lamed",
+  "item.minecraft.tipped_arrow.effect.llama_mobbed_potion": "Arrow of Lamed",
+
+  "effect.mobbed-status.wither-mobbed-status-effect": "Withered",
+  "item.minecraft.potion.effect.wither_mobbed_potion": "Potion of Withered",
+  "item.minecraft.splash_potion.effect.wither_mobbed_potion": "Splash Potion of Withered",
+  "item.minecraft.lingering_potion.effect.wither_mobbed_potion": "Lingering Potion of Withered",
+  "item.minecraft.tipped_arrow.effect.wither_mobbed_potion": "Arrow of Withered",
+
+  "effect.mobbed-status.rabbit-mobbed-status-effect": "Afoot",
+  "item.minecraft.potion.effect.rabbit_mobbed_potion": "Potion of Afoot",
+  "item.minecraft.splash_potion.effect.rabbit_mobbed_potion": "Splash Potion of Afoot",
+  "item.minecraft.lingering_potion.effect.rabbit_mobbed_potion": "Lingering Potion of Afoot",
+  "item.minecraft.tipped_arrow.effect.rabbit_mobbed_potion": "Arrow of Afoot",
+
+  "effect.mobbed-status.squid-mobbed-status-effect": "Inked",
+  "item.minecraft.potion.effect.squid_mobbed_potion": "Potion of Inked",
+  "item.minecraft.splash_potion.effect.squid_mobbed_potion": "Splash Potion of Inked",
+  "item.minecraft.lingering_potion.effect.squid_mobbed_potion": "Lingering Potion of Inked",
+  "item.minecraft.tipped_arrow.effect.squid_mobbed_potion": "Arrow of Inked",
+
+  "effect.mobbed-status.goat-mobbed-status-effect": "Horned",
+  "item.minecraft.potion.effect.goat_mobbed_potion": "Potion of Horned",
+  "item.minecraft.splash_potion.effect.goat_mobbed_potion": "Splash Potion of Horned",
+  "item.minecraft.lingering_potion.effect.goat_mobbed_potion": "Lingering Potion of Horned",
+  "item.minecraft.tipped_arrow.effect.goat_mobbed_potion": "Arrow of Horned",
+
+  "effect.mobbed-status.creeper-mobbed-status-effect": "Creeping",
+  "item.minecraft.potion.effect.creeper_mobbed_potion": "Potion of Creeping",
+  "item.minecraft.splash_potion.effect.creeper_mobbed_potion": "Splash Potion of Creeping",
+  "item.minecraft.lingering_potion.effect.creeper_mobbed_potion": "Lingering Potion of Creeping",
+  "item.minecraft.tipped_arrow.effect.creeper_mobbed_potion": "Arrow of Creeping"
 }
 

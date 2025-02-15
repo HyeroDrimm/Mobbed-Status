@@ -24,6 +24,7 @@ public class MobbedStatus implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		LOGGER.debug("Initializing Mobbed Status");
 		ModPotions.registerPotions();
 	}
 }

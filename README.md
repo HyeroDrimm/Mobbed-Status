@@ -15,6 +15,7 @@ If you take Potion of Infestation and brew it with these items you will get corr
 - Potion of Inked <— Inc Sac
 - Potion of Horned <— Goat Horn
 - Potion of Creeping <— Creeper Head
+
 Then you can make it a throwing, lingering or even tipped arrows! **So many uses!**
 
 ### Art
