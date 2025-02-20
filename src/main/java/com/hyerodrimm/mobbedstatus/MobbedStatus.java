@@ -1,16 +1,9 @@
 package com.hyerodrimm.mobbedstatus;
 
+import com.hyerodrimm.mobbedstatus.config.ModConfigs;
 import com.hyerodrimm.mobbedstatus.status_effect.BeeMobbedStatusEffect;
 import net.fabricmc.api.ModInitializer;
 
-import net.fabricmc.fabric.api.loot.v3.LootTableEvents;
-import net.minecraft.entity.effect.StatusEffect;
-import net.minecraft.entity.effect.StatusEffectCategory;
-import net.minecraft.registry.Registries;
-import net.minecraft.registry.Registry;
-import net.minecraft.structure.VillageGenerator;
-import net.minecraft.util.Colors;
-import net.minecraft.util.Identifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -25,6 +18,7 @@ public class MobbedStatus implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		LOGGER.debug("Initializing Mobbed Status");
+		ModConfigs.registerConfigs();
 		ModPotions.registerPotions();
 	}
 }

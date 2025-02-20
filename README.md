@@ -1,6 +1,9 @@
 # Mobbed Status
-Did you ever want to make your friend puke llamas? Did you ever want to make and epic troll on friend and have him spawn a mob of creepers on him? Now you can with this one fast mod.
-## Introducing: **Mobbed Status**!
+Did you see new potions effects, "Infestation" or "Oozing" and thought "Damn, cool mechanic I wonder if they will make similar thing for other mobs?". Well you need not to worry, I thought about it before you (presumably), and made mod that implements it. So I present to you:
+
+### **Mobbed Status**!
+
+Did you ever want to make your friend puke llamas? Did you ever want to make and epic troll on friend and have him spawn a mob of creepers on him? Now you can with one simple download.
 
 If you like it — **download** it, and if you are happy with it, **follow** for more updates.
 

@@ -1,4 +1,8 @@
 {
+  "modmenu.nameTranslation.mobbed-status": "Mobbed Status",
+  "modmenu.descriptionTranslation.mobbed-status": "Infect mobs with other mobs. Mobception!",
+  "modmenu.summaryTranslation.mobbed-status": "Infect mobs with other mobs. Mobception!",
+
   "effect.mobbed-status.bee-mobbed-status-effect": "Honeyed",
   "item.minecraft.potion.effect.bee_mobbed_potion": "Potion of Honeyed",
   "item.minecraft.splash_potion.effect.bee_mobbed_potion": "Splash Potion of Honeyed",

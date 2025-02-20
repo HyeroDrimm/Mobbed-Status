@@ -9,7 +9,8 @@
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/project/mobbed-status",
-		"sources": "https://github.com/HyeroDrimm/Mobbed-Status"
+		"sources": "https://github.com/HyeroDrimm/Mobbed-Status",
+		"issues": "https://github.com/HyeroDrimm/Mobbed-Status/issues"
 	},
 	"license": "CC-BY-4.0",
 	"icon": "assets/mobbed-status/icon.png",
@@ -38,5 +39,13 @@
 	"suggests": {
 		"horsearmorstandmod": "*",
 		"wolfarmorstandmod": "*"
+	},
+	"custom": {
+		"modmenu": {
+			"links": {
+				"modmenu.issues": "https://github.com/HyeroDrimm/Mobbed-Status/issues"
+			},
+			"update_checker": true
+		}
 	}
 }
